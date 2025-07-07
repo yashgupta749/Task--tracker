@@ -39,5 +39,5 @@ A simple, modern, and responsive personal task management application built with
 
 <!-- Add screenshots here -->
 
-![Login Page](screenshots/login.png)
-![Task Dashboard](screenshots/dashboard.png)
+![Login Page](/public/login.png)
+![Task Dashboard](/public/dashboard.png)
