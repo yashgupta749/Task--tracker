@@ -33,7 +33,7 @@ A simple, modern, and responsive personal task management application built with
 
 ## 🔗 Live Demo
 
-[Link to deployed application]
+(https://task-tracker-yashgupta749s-projects.vercel.app/)
 
 ## 🖼 Screenshots
 
